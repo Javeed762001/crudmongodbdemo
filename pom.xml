@@ -80,7 +80,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>crudmongodbdemo-0.0.1-SNAPSHOT</finalName>
+		<finalName>crudJenkinsIntegration</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
